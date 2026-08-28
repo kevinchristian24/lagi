@@ -15,11 +15,11 @@ https://suryatmajan.streamlit.app/
 
 ## Screenshots
 
-![App Screenshot](./gambar_md/Screenshot%202026-08-28%20071308.png)
+![App Screenshot](./gambar/Screenshot%202026-08-28%20071308.png)
 
-![App Screenshot](./gambar_md/Screenshot%202026-08-28%20071403.png)
+![App Screenshot](./gambar/Screenshot%202026-08-28%20071403.png)
 
-![App Screenshot](./gambar_md/Screenshot%202026-08-28%20071458.png)
+![App Screenshot](./gambar/Screenshot%202026-08-28%20071458.png)
 
 ## Tech Stack
 
